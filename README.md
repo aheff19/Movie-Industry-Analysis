@@ -5,9 +5,10 @@ An analysis of the movie industry for prospective business stakeholders.
 Microsoft has asked us to give a presentation on how to get started in the movie business.  
 
 To that end, in this study we will answer the following:
-* What is the highest grossing genre on average?
-* How much should the you spend on a film production? How have budgets changed over the years?
-* What time of the year is it most profitable to release a movie?
+* What is the highest grossing genre on average? (Team)
+* How much should the you spend on a film production? How have budgets changed over the years? (Team)
+* What has been the Net Margin performance over the last three decades? (Mine)
+
 
 ### Data Sets and Resources:
 We used API's from the following databases:
@@ -45,21 +46,20 @@ Well, we were off by a few million! Thanks to advent of modern technology, such 
 
 Currently we recommend the budget be set to $38 million, as our studies have concluded to the be the median amount spent.  We also want you to keep in kind that the budget, according to the market trend, will continue to rise as demands for spectacle increase.
 
-## What time of the year is it most profitable to release a movie?
+## What has been the Net Margin performance over the last three decades?
 
-### Initial Thoughts
-This one is a little a little tricky for me personally because I know that summer is usually when a lot of the big hitter movies come out.  Winter has always been heavy with movie releases.  Then there's the fact that all of the Oscar contenders usually release in the fall.  Personally, I felt that summer was probably most profitable, are there other profitable times as well?
+### Initial Thoughts 
+
+Initially, I thought that during the early 2000's the net profit margin would be low because of the economy (i.e., that was the time during the housing crisis and recession.
 
 ### Findings and Conclusions
-![Imgur](https://i.imgur.com/mEVnN3U.png)
+![Imgur](https://i.imgur.com/kbnYqL6.png)
 
-Well, summer wins by a land slide, though you want to get started quickly.  To maximize profits, you're going to want to release starting in May and no later than June.  There is a steep drop off once you hit July and people are spending money on Back-to-School supplies.  The holiday season is also very profitable since families are spending a lot of time together.  Those profits drop off steeply come the beginning of the year, most likely because of people wanting to replenish their bank accounts after the holiday season.  As for why Oscar contenders are released during a less profitable time, I believe it's because the studios don't want to have their movies overlooked during the flood of cinema releases during the summer.  
+As expected, films proved profitable in a flourshing economy but also showed that profits are possible, even if the economic conditions are struggling.
 
 ### Recommendation
 
-To maximize profit, begin releasing in May and no later than June. 
+The state of economy will impact the net margin, but this can be negated through good use of budget.
 
-## Important Note:
-To see all of my work, please reference the notebook labeled Ben's Final Draft.ipynb.
 
-## Thank you for considering our team for your research!
+
