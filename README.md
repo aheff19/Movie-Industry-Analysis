@@ -23,7 +23,7 @@ With the popularity of frachises such as the Marvel Cinematic Universe and Star 
 it goes without saying that the "Adventure" genre is pretty popular, but what are some other popular genres?
 
 ### Findings and Conclusions
-![Imgur](https://i.imgur.com/kpjkSiN.png)
+![Imgur](https://i.imgur.com/twssAc6.png)
 
 There we have it! Adventure is the most profitible genre with animation not far behind it. Documentaries, despite being popular on Netflix, just don't sell well at the box office. This is probably a result it having a niche audience. One caveat about our analysis is that it is too linear. This implies that each movie only falls under a single genre. This is rarely the case, however, since most movies fall into multiple genres.
 
@@ -38,9 +38,11 @@ For now, it is safe to say that you should create an adventure film, but it woul
 Initially, we thought that the median budget for a film was around $50 million.  Considering big budget films like Harry Potter and the Chamber of Secrets had a budget of $100 million (TheNumbers), $50 million seems like a modest amount.
 
 ### Findings and Conclusions
-![Imgur](https://i.imgur.com/gkI3Skq.png)
+![Imgur](https://i.imgur.com/czraTgw.png)
 
 Well, we were off by a few million! Thanks to advent of modern technology, such as, visual studio effects, CGI, etc, budgets have decreased. 30 years ago, that extra expenditure  would have gone towards, car explosions, pyrotechnics, and stuntmen.  However, we do see that, even during the recession in the 2000's, there is a slow but steady increase in the amount of money spent on the production budget.
+
+![Imgur](https://i.imgur.com/kpCaAlS.png)
 
 ### Recommendation
 
